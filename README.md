@@ -15,7 +15,7 @@ This project aims to find the duplicate questions on Quora using NLP and Data Mi
 ## About Project:
 Since all of us are new to this subject, we spent some sufficient time learning and discussing the basic concepts of Data Mining and Neuro linguistic Processing. After performing some initial research on the implementation of the project, the solution is boiled down to the certain techniques that we are going use to find the approximate if not accurate solution to the above problem. This is overall a basic implementation of the project. There is still a lot of scope for improvement of accuracy by using some Neural Networks concepts and Deep Learning embedding techniques.
 
-Below are the techniques so far decided to implement as part of this project.
+Below are the techniques implemented as part of this project.
 - CSR Matrix
 - TF-IDF scoring
 - Cosine Similarity
