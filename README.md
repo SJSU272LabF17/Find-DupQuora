@@ -18,7 +18,7 @@ We started off the project learning and discussing the basic concepts of Data Mi
 the techniques involves calculating the cosine similarity between questions in the pair by frequency scores in the CSR Matrix built. 
 
 ## Dataset:
-Quora has released a dataset consisting of question pairs earlier this year. It includes 404351 question pairs with a label column indicating if they are duplicate or not. The score listed for each question pair as 1 if both are simalar and 0 if both are different. The dataset has 63.07% labelled as non duplicates and 36.93% labelled as duplicates
+Quora has released a dataset consisting of question pairs earlier this year. The dataset can be downloaded from this link http://qim.ec.quoracdn.net/quora_duplicate_questions.tsv It includes 404351 question pairs with a label column indicating if they are duplicate or not. The score listed for each question pair as 1 if both are simalar and 0 if both are different. The dataset has 63.07% labelled as non duplicates and 36.93% labelled as duplicates. 
 
 ## Note: 
 The dataset file is too big to run the cosine similarity technique in our machines, hence we executed the code with a smaller dataset on a Jupyter Notebook.
