@@ -22,7 +22,7 @@ import re
 # In[4]:
 
 
-df = pd.read_csv('quora_duplicate_questions.tsv',delimiter ='\t')
+df = pd.read_csv('data/quora_duplicate_questions.tsv',delimiter ='\t')
 target = df['is_duplicate']
 print(target.head(5))
 print(df.describe())
@@ -228,8 +228,8 @@ mat3.shape
 # In[17]:
 
 
-query_mat1 = mat3[:404290, :]
-query_mat2 = mat3[404290:808580, :]
+query_mat1 = mat3[:168354, :]
+query_mat2 = mat3[168354:336708, :]
 
 
 # In[18]:
@@ -261,14 +261,14 @@ columns
 
 result = []
 s=0
-rows1 = math.ceil(rows/1000)
+rows1 = 405 #math.ceil(rows/1000)
 column1 = columns
 print(rows1, column1)
     
         
 
 
-# ##### Cosine Simialrity without dimensionality reduction
+# ##### Cosine Similarity without dimensionality reduction
 
 # In[22]:
 
