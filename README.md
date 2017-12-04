@@ -13,7 +13,7 @@ This project aims to find the duplicate questions on Quora using NLP and Data Mi
 4) Harsh Patel
 
 ## About Project:
-We started off the project learning and discussing the basic concepts of Data Mining and Natural language Processing. After some research on the implementation of the project, the solution is boiled down to cosine similarity calculation using term frequencies. This program implements cosine similarity technique by building CSR Matrix which contains term frequencies of each question as a vector. There is still a lot of scope for improving the accuracy by using some Neural Networks concepts and Deep Learning embedding techniques.
+We started off the project learning and discussing the basic concepts of Data Mining and Natural Language Processing. After some research on the implementation of the project, the solution is boiled down to cosine similarity calculation using term frequencies. This program implements cosine similarity technique by building CSR Matrix which contains term frequencies of each question as a vector. There is still a lot of scope for improving the accuracy by using some Neural Networks concepts and Deep Learning embedding techniques.
 
 the techniques involves calculating the cosine similarity between questions in the pair by frequency scores in the CSR Matrix built. 
 
