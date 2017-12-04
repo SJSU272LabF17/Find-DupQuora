@@ -18,8 +18,7 @@ import math
 import re
 
 
-# ###### Importing and Reading data using Pandas from csv (comma seperated values) Here it is tab seperated values
-
+# ###### Importing and Reading data using Pandas from tsv (tab seperated values)
 # In[4]:
 
 
@@ -159,7 +158,7 @@ mat = build_matrix(docs_final)
 csr_info(mat)
 
 
-# ###### Converting the CSR marix into inverse document frequency matrix to make it easy for calculation
+# ###### Converting the CSR matrix into inverse document frequency matrix to make it easy for calculation
 
 # In[15]:
 
