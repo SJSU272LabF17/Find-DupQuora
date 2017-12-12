@@ -4,7 +4,7 @@
 Detecting duplicate questions on Quora
 
 ## Objective
-This project aims to find the duplicate questions on Quora using NLP and Data Mining Techniques.
+This project aims to find the duplicate questions on Quora using NLP and Machine Learning Techniques.
 
 ## Team Members
 1) Thejaswi Kampalli
