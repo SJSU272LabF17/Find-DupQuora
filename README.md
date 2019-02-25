@@ -10,7 +10,7 @@ This project aims to find the duplicate questions on Quora using NLP and Machine
 1) Thejaswi Kampalli
 2) Manogna Sindhusha Mujje
 3) Pooja Shivasharanappa
-4) Harsh Patel
+4) Harsh Patel aka Chaudhari
 
 ## About Project:
 We started off the project learning and discussing the basic concepts of Data Mining and Natural Language Processing. After some research on the implementation of the project, the solution is boiled down to cosine similarity calculation using term frequencies. This program implements cosine similarity technique by building CSR Matrix which contains term frequencies of each question as a vector. 
